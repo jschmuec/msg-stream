@@ -1,6 +1,8 @@
 name := "msg-stream"
 
-version := "0.0.2"
+organization := "com.schmueckers"
+
+version := "0.0.4-SNAPSHOT"
 
 scalaVersion := "2.11.12"
 
